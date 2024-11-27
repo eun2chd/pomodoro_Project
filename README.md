@@ -59,7 +59,7 @@ http://52.78.68.95/
 
 # 개발과정 
 ### 노션 URL
-https://glitter-scourge-249.notion.site/pomo-1343cb019cd480e2a585f0dfa8ace4b2\
+https://glitter-scourge-249.notion.site/pomo-1343cb019cd480e2a585f0dfa8ace4b2?pvs=4
 * * *
 # 부족한점
 ### 부족한 점 및 개선 방향
