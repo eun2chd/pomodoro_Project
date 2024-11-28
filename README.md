@@ -35,7 +35,7 @@ Back-end : nodejs, mysql<br/>
 - 해당 피드에 대한 좋아요 기능 구현
 * * *
 # DB ERD
-![최종ERD](https://github.com/user-attachments/assets/df0450e8-45da-44b1-8479-f2cf72a7cb6e)
+![최종ERD](https://github.com/user-attachments/assets/5c63441f-724d-4b90-ad53-08c9b2f3fad1)
 1. Users 테이블 : 사용자 정보
 2. Tasks 테이블 : 작업스케줄 관리
 4. likes 테이블 : 좋아요한 피드목록
